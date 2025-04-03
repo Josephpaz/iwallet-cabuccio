@@ -1,0 +1,1 @@
+ALTER TABLE `user` ADD `balance` decimal(18,2) NOT NULL;
