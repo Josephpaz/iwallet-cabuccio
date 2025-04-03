@@ -15,6 +15,13 @@
       "when": 1743658862877,
       "tag": "0001_special_warbound",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1743660940849,
+      "tag": "0002_jittery_sally_floyd",
+      "breakpoints": true
     }
   ]
 }
